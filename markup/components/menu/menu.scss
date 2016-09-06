@@ -1,0 +1,31 @@
+.menu {
+  &__list {
+    display: flex;
+
+    align-items: center;
+    justify-content: space-between;
+  }
+  &__item {
+    display: block;
+
+    margin-right: 50px;
+
+    color: $white;
+
+    font-family: $RobotoSlab-Bold;
+    font-size: rem-calc(19);
+    @media screen and (max-width: rem-calc(1024)) {
+      margin-right: 25px;
+    }
+    span {
+      border-bottom: 1px solid rgba($white, .2);
+
+      @include transition;
+    }
+    &:hover {
+      span {
+        border-bottom: 1px solid rgba($white, .9);
+      }
+    }
+  }
+}

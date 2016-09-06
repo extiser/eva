@@ -1,0 +1,1197 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"spa",
+				"space-between"
+			],
+			[
+				"marign",
+				"margin-right"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"me",
+				"menu__item"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"visi",
+				"visible"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"lo",
+				"login"
+			],
+			[
+				"bt",
+				"button	(GUI.scss)"
+			],
+			[
+				"fn",
+				"font-size"
+			],
+			[
+				"sele",
+				"select-industry__item"
+			],
+			[
+				"head",
+				"header"
+			],
+			[
+				"sec",
+				"select-industry"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"re",
+				"rem-calc"
+			],
+			[
+				"colo",
+				"colors"
+			],
+			[
+				"clea",
+				"clear	(index.php)"
+			],
+			[
+				"padding",
+				"padding-bottom	styl"
+			],
+			[
+				"conte",
+				"content-area"
+			],
+			[
+				"gra",
+				"graph-line-text	(index.php)"
+			],
+			[
+				"grap",
+				"graph-line-text	(index.php)"
+			],
+			[
+				"_over",
+				"_overnundred"
+			],
+			[
+				"paddin",
+				"padding-left	styl"
+			],
+			[
+				"c-ex",
+				"c-expert-opinion__column"
+			],
+			[
+				"win",
+				"winScrollTop"
+			],
+			[
+				"ta",
+				"target	Attr"
+			],
+			[
+				"font",
+				"font-weight	styl"
+			],
+			[
+				"conten",
+				"content-center	(index.php)"
+			],
+			[
+				"scr",
+				"scroll-text"
+			],
+			[
+				"уче",
+				"учета"
+			],
+			[
+				"кад",
+				"кадрового"
+			],
+			[
+				"запр",
+				"зарплатой"
+			],
+			[
+				"эксп",
+				"экспресс-обследование"
+			],
+			[
+				"беспта",
+				"бесплатное"
+			],
+			[
+				"clear",
+				"clearme"
+			],
+			[
+				"c-comap",
+				"c-compare-recomend-bottom"
+			],
+			[
+				"p",
+				"p	Tag"
+			],
+			[
+				"produ",
+				"product-list"
+			],
+			[
+				"con",
+				"content-area"
+			],
+			[
+				"content-",
+				"content-area"
+			],
+			[
+				"a",
+				"a	<a>"
+			],
+			[
+				"c-per",
+				"c-perform-automated__column"
+			],
+			[
+				"margn",
+				"margin-bottom	styl"
+			],
+			[
+				"c-spe",
+				"c-specialization-industry__column"
+			],
+			[
+				"c-au",
+				"c-automation-accounting-top-baner"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"tra",
+				"translateY"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"act",
+				"active"
+			],
+			[
+				"days",
+				"daysSpan"
+			],
+			[
+				"js-time",
+				"js-timer-days"
+			],
+			[
+				"qer",
+				"querySelector"
+			],
+			[
+				"next",
+				"nextIndex"
+			],
+			[
+				"border-col",
+				"border-color"
+			],
+			[
+				"fno",
+				"font-size"
+			],
+			[
+				"in",
+				"inherit"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"call",
+				"callback-form	(index.jade)"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"tran",
+				"transform"
+			],
+			[
+				"elipse",
+				"elipsecircle	(GUI.scss)"
+			],
+			[
+				"ra",
+				"border-top-left-radius"
+			],
+			[
+				"form",
+				"form-element"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"secti",
+				"section-contact"
+			],
+			[
+				"data",
+				"data-menuanchor"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"po",
+				"position	(slick.scss)"
+			],
+			[
+				"slick-ver",
+				"slick-vertical-slide--active	(fullpage.js)"
+			],
+			[
+				"js-",
+				"js-slick-vertical	(slick.scss)"
+			],
+			[
+				"section-teachers-lis",
+				"section-teachers-list-item"
+			],
+			[
+				"section-teachers-li",
+				"section-teachers-list-item"
+			],
+			[
+				"src",
+				"src=\"%=static=%images"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"font-fa",
+				"font-family	(mixins.scss)"
+			],
+			[
+				"section-elite-sli",
+				"section-elite-slide__img"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fle",
+				"flex"
+			],
+			[
+				"section-education-bot",
+				"section-education-bottom-item"
+			],
+			[
+				"section-education-bo",
+				"section-education-bottom-item__text"
+			],
+			[
+				"text-",
+				"text-indent"
+			],
+			[
+				"marig",
+				"margin-top	(fullpage.scss)"
+			],
+			[
+				"bott",
+				"bottom"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"section-gallery-sl",
+				"section-gallery-slide-information"
+			],
+			[
+				"section-gallery-s",
+				"section-gallery-slide-information"
+			],
+			[
+				"tarns",
+				"transform"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"section-map-information-con",
+				"section-map-information-contact__item"
+			],
+			[
+				"sect",
+				"section-map-information"
+			],
+			[
+				"So",
+				"SourceSansPro-Regular	(fonts.scss)"
+			],
+			[
+				"Pro",
+				"ProbaPro-SemiBold	(fonts.scss)"
+			],
+			[
+				"section-about-adv",
+				"section-about-advantages-item"
+			],
+			[
+				"rb",
+				"rgba()"
+			],
+			[
+				"Pr",
+				"ProbaPro-Light	(fonts.scss)"
+			],
+			[
+				"P",
+				"ProbaPro-SemiBold	(fonts.scss)"
+			],
+			[
+				"flex",
+				"flex-start"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"f",
+				"font-family"
+			],
+			[
+				"section",
+				"section-top"
+			],
+			[
+				"rem",
+				"rem-calc	(mixins.scss)"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"ali",
+				"alignItems"
+			],
+			[
+				"jus",
+				"justifyContent"
+			],
+			[
+				"he",
+				"header	(header.jade)"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"art",
+				"article-video"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"site",
+				"sitemap-page-item"
+			],
+			[
+				"fo",
+				"footer-menu"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"ab",
+				"about-page	(about.jade)"
+			],
+			[
+				"dire",
+				"direct-top"
+			],
+			[
+				"rea",
+				"read-more"
+			],
+			[
+				"marin",
+				"margin-right"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"butt",
+				"button	(GUI.scss)"
+			],
+			[
+				"med",
+				"medium-8"
+			],
+			[
+				"fom",
+				"form__label"
+			],
+			[
+				"ex",
+				"expert-settings"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "markup/components/header/header.jade",
+			"settings":
+			{
+				"buffer_size": 179,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "markup/pages/index.jade",
+			"settings":
+			{
+				"buffer_size": 38,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"task",
+				"Tasks: New document"
+			],
+			[
+				"new",
+				"Tasks: New"
+			],
+			[
+				":",
+				"View: Toggle Menu"
+			],
+			[
+				"",
+				"Set Syntax: HTML"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 526.0,
+		"history":
+		[
+			"cd e:/git/svadbavo-2015/",
+			"update",
+			"export LC_NUMERIC=C",
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"view.settings().get('syntax')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/extiser/git/eva/markup",
+		"/Users/extiser/git/eva/markup/components",
+		"/Users/extiser/git/eva/markup/components/header",
+		"/Users/extiser/git/eva/markup/pages",
+		"/Users/extiser/git/eva/markup/static",
+		"/Users/extiser/git/eva/markup/static/scss"
+	],
+	"file_history":
+	[
+		"/Users/extiser/git/eva/markup/components/menu/menu.jade",
+		"/Users/extiser/git/eva/markup/components/menu/menu.scss",
+		"/Users/extiser/git/eva/markup/components/search/search.jade",
+		"/Users/extiser/git/eva/markup/components/search/search.scss",
+		"/Users/extiser/git/eva/markup/components/header/header.scss",
+		"/Users/extiser/git/eva/markup/components/top-bar/top-bar.scss",
+		"/Users/extiser/git/eva/markup/static/scss/GUI.scss",
+		"/Users/extiser/git/eva/markup/components/select-language/select-language.jade",
+		"/Users/extiser/git/eva/markup/components/select-language/select-language.scss",
+		"/Users/extiser/git/eva/markup/static/scss/common.scss",
+		"/Users/extiser/git/eva/markup/pages/_layout.jade",
+		"/Users/extiser/git/eva/markup/components/header/header.jade",
+		"/Users/extiser/git/eva/markup/components/top-bar/top-bar.jade",
+		"/Users/extiser/git/eva/markup/components/login/login.scss",
+		"/Users/extiser/git/eva/markup/components/select-industry/select-industry.scss",
+		"/Users/extiser/git/eva/markup/components/select-industry/select-industry.jade",
+		"/Users/extiser/git/eva/markup/components/login/login.jade",
+		"/Users/extiser/git/eva/markup/static/scss/mixins.scss",
+		"/Users/extiser/git/eva/markup/static/scss/vars.scss",
+		"/Users/extiser/git/eva/markup/pages/index.jade",
+		"/Users/extiser/git/eva/markup/static/scss/fonts.scss",
+		"/Users/extiser/git/ozone/markup/static/scss/common.scss",
+		"/Users/extiser/git/ozone/markup/static/scss/mixins.scss",
+		"/Users/extiser/git/izeta-site/markup/static/scss/fonts.scss",
+		"/Users/extiser/git/izeta-site/markup/static/scss/mixins.scss",
+		"/Users/extiser/git/eva/markup/static/scss/etc/icons.scss",
+		"/Users/extiser/git/eva/tars-config.js",
+		"/Users/extiser/git/eva/node_modules/swiper/dist/css/swiper.css",
+		"/Users/extiser/git/eva/markup/components/default_component_scheme.json",
+		"/Users/extiser/git/izeta-site/markup/pages/index.jade",
+		"/Users/extiser/git/izeta-site/markup/pages/_layout.jade",
+		"/Users/extiser/MAMP/wiseadvice.ru/local/.development/src/stylus/partials/uslugi-1s/avtomatizaciya-na-baze-1s/reshaemye-zadachi-po-otraslyam/c-perform-automated.styl",
+		"/Users/extiser/MAMP/wiseadvice.ru/local/.development/src/stylus/partials/uslugi-1s/avtomatizaciya-na-baze-1s/reshaemye-zadachi-po-otraslyam/c-expert-opinion.styl",
+		"/Users/extiser/MAMP/wiseadvice.ru/local/markup/uslugi-1s/avtomatizaciya-na-baze-1s/reshaemye-zadachi-po-otraslyam/index.php",
+		"/Users/extiser/MAMP/wiseadvice.ru/local/markup/uslugi-1s/avtomatizaciya-na-baze-1s/reshaemye-zadachi-po-otraslyam/avtomatizaciya-torgovyh-kompanii/index.php",
+		"/Users/extiser/MAMP/wiseadvice.ru/local/markup/uslugi-1s/avtomatizaciya-na-baze-1s/reshaemye-zadachi-po-otraslyam/avtomatizaciya-proizvodstvennyh-predpriyatii/index.php",
+		"/Users/extiser/MAMP/parser.com/123/index.php",
+		"/Users/extiser/MAMP/wiseadvice.ru/local/.development/src/stylus/partials/uslugi-1s/avtomatizaciya-na-baze-1s/reshaemye-funkcionalnye-zadachi/avtomatizaciya-buhgalterskogo-ucheta/c-simple-automation.styl",
+		"/Users/extiser/MAMP/wiseadvice.ru/local/.development/src/stylus/partials/uslugi-1s/avtomatizaciya-na-baze-1s/reshaemye-zadachi-po-otraslyam/c-specialization-industry.styl",
+		"/Users/extiser/MAMP/wiseadvice.ru/local/.development/src/stylus/partials/uslugi-1s/avtomatizaciya-na-baze-1s/reshaemye-funkcionalnye-zadachi/avtomatizaciya-hrm/c-expert-opinion.styl",
+		"/Users/extiser/MAMP/wiseadvice.ru/local/markup/uslugi-1s/avtomatizaciya-na-baze-1s/reshaemye-funkcionalnye-zadachi/avtomatizaciya-buhgalterskogo-ucheta/buhgalterskii-uchet-po-msfo/index.php",
+		"/Users/extiser/MAMP/wiseadvice.ru/local/.development/src/stylus/partials/uslugi-1s/avtomatizaciya-na-baze-1s/reshaemye-funkcionalnye-zadachi/frp/main-functions-frp.styl",
+		"/Users/extiser/MAMP/wiseadvice.ru/local/.development/src/stylus/partials/uslugi-1s/avtomatizaciya-na-baze-1s/reshaemye-funkcionalnye-zadachi/avtomatizaciya-buhgalterskogo-ucheta/c-automation-accounting.styl",
+		"/Users/extiser/MAMP/wiseadvice.ru/local/.development/src/stylus/partials/uslugi-1s/graph-line.styl",
+		"/Users/extiser/MAMP/wiseadvice.ru/local/.development/src/stylus/partials/uslugi-1s/c-typical-programms.styl",
+		"/Users/extiser/MAMP/wiseadvice.ru/local/.development/src/stylus/partials/uslugi-1s/avtomatizaciya-na-baze-1s/reshaemye-funkcionalnye-zadachi/avtomatizaciya-buhgalterskogo-ucheta/c-accounting-consultant.styl",
+		"/Users/extiser/MAMP/wiseadvice.ru/local/.development/src/stylus/partials/uslugi-1s/avtomatizaciya-na-baze-1s/reshaemye-funkcionalnye-zadachi/avtomatizaciya-erp/c-effect-erp.styl",
+		"/Users/extiser/MAMP/wiseadvice.ru/local/.development/src/stylus/partials/uslugi-1s/avtomatizaciya-na-baze-1s/reshaemye-funkcionalnye-zadachi/avtomatizaciya-hrm/c-hrm-effect.styl",
+		"/Users/extiser/MAMP/wiseadvice.ru/local/.development/src/stylus/partials/uslugi-1s/avtomatizaciya-na-baze-1s/reshaemye-funkcionalnye-zadachi/avtomatizaciya-hrm/c-your-benefits.styl",
+		"/Users/extiser/MAMP/wiseadvice.ru/local/markup/uslugi-1s/avtomatizaciya-na-baze-1s/reshaemye-funkcionalnye-zadachi/avtomatizaciya-buhgalterskogo-ucheta/index.php",
+		"/Users/extiser/MAMP/wiseadvice.ru/local/.development/src/stylus/partials/uslugi-1s/avtomatizaciya-na-baze-1s/reshaemye-funkcionalnye-zadachi/avtomatizaciya-buhgalterskogo-ucheta/c-other-automation-tasks.styl",
+		"/Users/extiser/MAMP/wiseadvice.ru/local/.development/src/stylus/partials/uslugi-1s/avtomatizaciya-na-baze-1s/reshaemye-funkcionalnye-zadachi/frp/c-directions-automate.styl",
+		"/Users/extiser/MAMP/wiseadvice.ru/local/.development/src/stylus/partials/uslugi-1s/avtomatizaciya-na-baze-1s/reshaemye-funkcionalnye-zadachi/avtomatizaciya-buhgalterskogo-ucheta/c-comprehensive-automation.styl",
+		"/Users/extiser/MAMP/wiseadvice.ru/local/.development/src/stylus/partials/uslugi-1s/avtomatizaciya-na-baze-1s/reshaemye-funkcionalnye-zadachi/avtomatizaciya-buhgalterskogo-ucheta/c-transparent-cost.styl",
+		"/Users/extiser/MAMP/wiseadvice.ru/local/.development/src/stylus/partials/uslugi-1s/avtomatizaciya-na-baze-1s/reshaemye-funkcionalnye-zadachi/avtomatizaciya-buhgalterskogo-ucheta/compare-baner.styl",
+		"/Users/extiser/MAMP/wiseadvice.ru/local/markup/uslugi-1s/avtomatizaciya-na-baze-1s/reshaemye-funkcionalnye-zadachi/upravlenie-nsi-mdm/index.php",
+		"/Users/extiser/MAMP/wiseadvice.ru/local/markup/uslugi-1s/avtomatizaciya-na-baze-1s/reshaemye-funkcionalnye-zadachi/integracii-s-1s/perenos-dannyh-1s/index.php",
+		"/Users/extiser/MAMP/wiseadvice.ru/local/markup/uslugi-1s/avtomatizaciya-na-baze-1s/reshaemye-funkcionalnye-zadachi/integracii-s-1s/nastroika-obmenov-dannymi-mezhdu-programmami/index.php",
+		"/Users/extiser/MAMP/wiseadvice.ru/local/markup/uslugi-1s/avtomatizaciya-na-baze-1s/reshaemye-funkcionalnye-zadachi/integracii-s-1s/integracii-so-storonnimi-prilozheniyami/index.php",
+		"/Users/extiser/MAMP/wiseadvice.ru/local/markup/uslugi-1s/avtomatizaciya-na-baze-1s/reshaemye-funkcionalnye-zadachi/integracii-s-1s/index.php",
+		"/Users/extiser/MAMP/wiseadvice.ru/local/markup/uslugi-1s/avtomatizaciya-na-baze-1s/reshaemye-funkcionalnye-zadachi/integracii-s-1s/integracii-1s-s-saitami/index.php",
+		"/Users/extiser/MAMP/wiseadvice.ru/local/markup/uslugi-1s/avtomatizaciya-na-baze-1s/reshaemye-funkcionalnye-zadachi/frp/index.php",
+		"/Users/extiser/MAMP/wiseadvice.ru/local/markup/uslugi-1s/avtomatizaciya-na-baze-1s/reshaemye-funkcionalnye-zadachi/frp/upravlencheskii-uchet/index.php",
+		"/Users/extiser/MAMP/wiseadvice.ru/local/markup/uslugi-1s/avtomatizaciya-na-baze-1s/reshaemye-funkcionalnye-zadachi/frp/bdr/index.php",
+		"/Users/extiser/MAMP/wiseadvice.ru/local/markup/uslugi-1s/avtomatizaciya-na-baze-1s/reshaemye-funkcionalnye-zadachi/frp/bdds/index.php",
+		"/Users/extiser/MAMP/wiseadvice.ru/local/markup/uslugi-1s/avtomatizaciya-na-baze-1s/reshaemye-funkcionalnye-zadachi/edo/index.php",
+		"/Users/extiser/MAMP/wiseadvice.ru/local/markup/uslugi-1s/avtomatizaciya-na-baze-1s/reshaemye-funkcionalnye-zadachi/avtomatizaciya-bpm/index.php",
+		"/Users/extiser/MAMP/wiseadvice.ru/local/markup/uslugi-1s/avtomatizaciya-na-baze-1s/reshaemye-funkcionalnye-zadachi/avtomatizaciya-hrm/index.php",
+		"/Users/extiser/MAMP/wiseadvice.ru/local/markup/uslugi-1s/avtomatizaciya-na-baze-1s/reshaemye-funkcionalnye-zadachi/avtomatizaciya-erp/index.php",
+		"/Users/extiser/MAMP/wiseadvice.ru/local/markup/uslugi-1s/avtomatizaciya-na-baze-1s/reshaemye-funkcionalnye-zadachi/konsolidaciya-dannyh/index.php",
+		"/Users/extiser/MAMP/wiseadvice.ru/local/.development/src/stylus/css/global.styl",
+		"/Users/extiser/MAMP/wiseadvice.ru/local/markup/uslugi-1s/avtomatizaciya-na-baze-1s/reshaemye-funkcionalnye-zadachi/avtomatizaciya-raboty-uridicheskih-otdelov/index.php",
+		"/Users/extiser/MAMP/wiseadvice.ru/local/markup/uslugi-1s/avtomatizaciya-na-baze-1s/reshaemye-funkcionalnye-zadachi/avtomatizaciya-crm/index.php",
+		"/Users/extiser/MAMP/wiseadvice.ru/local/.development/src/stylus/partials/uslugi-1s/scroll-text.styl",
+		"/Users/extiser/MAMP/wiseadvice.ru/local/.development/src/stylus/partials/blocks/s_prices.styl",
+		"/Users/extiser/MAMP/wiseadvice.ru/local/.development/src/stylus/partials/blog/c-training-video.styl",
+		"/Users/extiser/MAMP/wiseadvice.ru/local/markup/work-with-us/index.php",
+		"/Users/extiser/MAMP/wiseadvice.ru/local/.development/src/js/graph-line/graph-line.js",
+		"/Users/extiser/MAMP/wiseadvice.ru/local/.development/src/stylus/partials/work-with-us/work-with-us-global.styl",
+		"/Users/extiser/Downloads/temp/c-typical-products temp.php",
+		"/Users/extiser/Downloads/temp/other-automation-tasks.php",
+		"/Users/extiser/MAMP/wiseadvice.ru/local/.development/src/stylus/partials/uslugi-1s/avtomatizaciya-na-baze-1s/reshaemye-funkcionalnye-zadachi/avtomatizaciya-buhgalterskogo-ucheta/video-reviews.styl",
+		"/Users/extiser/MAMP/wiseadvice.ru/local/.development/src/stylus/partials/programmy-1s/arenda-programm-1s/c-demo-review.styl",
+		"/Users/extiser/MAMP/wiseadvice.ru/local/markup/forms/partial.php",
+		"/Users/extiser/MAMP/wiseadvice.ru/local/.development/src/stylus/partials/programmy-1s/arenda-programm-1s/c-why-rent-us.styl",
+		"/Users/extiser/MAMP/wiseadvice.ru/local/markup/programmy-1s/arenda-programm-1s/index.php",
+		"/Users/extiser/MAMP/wiseadvice.ru/local/.development/src/stylus/partials/blocks/c-agaile-intro.styl",
+		"/Users/extiser/MAMP/wiseadvice.ru/local/.development/src/js/compare/compare-calculator.js",
+		"/Users/extiser/MAMP/wiseadvice.ru/local/.development/src/js/compare/compare-table.js",
+		"/Users/extiser/MAMP/wiseadvice.ru/local/.development/src/stylus/partials/uslugi-1s/experience-section.styl",
+		"/Users/extiser/MAMP/wiseadvice.ru/local/.development/src/js/scroll-text/scroll-text.js",
+		"/Users/extiser/MAMP/wiseadvice.ru/local/.development/src/js/main.js",
+		"/Users/extiser/MAMP/wiseadvice.ru/local/.development/src/stylus/partials/uslugi-1s/c-compare-recomend.styl",
+		"/Users/extiser/MAMP/wiseadvice.ru/local/markup/programmy-1s/sravnenie-versii/1s-8-unf-i-1s-8-ut.php",
+		"/Users/extiser/MAMP/wiseadvice.ru/local/.development/src/stylus/partials/konsultacii/c-prices.styl",
+		"/Users/extiser/MAMP/wiseadvice.ru/local/.development/src/stylus/partials/sprite.styl",
+		"/Users/extiser/MAMP/wiseadvice.ru/local/.development/src/stylus/partials/uslugi-1s/avtomatizaciya-na-baze-1s/reshaemye-funkcionalnye-zadachi/bdds/c-accordion.styl",
+		"/Users/extiser/git/k-landing/markup/components/section-elite/section-elite.jade",
+		"/Users/extiser/git/k-landing/markup/components/section-top/section-top.scss",
+		"/Users/extiser/git/k-landing/markup/components/callback-form/callback-form.jade",
+		"/Users/extiser/git/k-landing/markup/components/callback-form/callback-form.js",
+		"/Users/extiser/git/k-landing/markup/components/modal/modal.scss",
+		"/Users/extiser/git/k-landing/markup/components/section-reviews/section-reviews.scss",
+		"/Users/extiser/git/k-landing/markup/components/top-menu/top-menu.jade",
+		"/Users/extiser/git/k-landing/markup/components/section-reviews/section-reviews.jade",
+		"/Users/extiser/git/k-landing/markup/static/scss/GUI.scss",
+		"/Users/extiser/git/k-landing/markup/components/section-teachers/section-teachers.jade",
+		"/Users/extiser/git/k-landing/markup/components/section-teachers/section-teachers.scss",
+		"/Users/extiser/git/k-landing/markup/components/section-education/section-education.jade",
+		"/Users/extiser/git/k-landing/markup/components/section-education/section-education.scss",
+		"/Users/extiser/git/k-landing/markup/components/section-contact/section-contact.jade",
+		"/Users/extiser/git/k-landing/markup/components/section-gallery/section-gallery.scss",
+		"/Users/extiser/git/k-landing/markup/components/section-gallery/section-gallery.jade",
+		"/Users/extiser/git/k-landing/markup/components/fullpage.js/fullpage.js",
+		"/Users/extiser/git/k-landing/markup/components/fullpage.js/fullpage.scss",
+		"/Users/extiser/git/k-landing/markup/components/footer/footer.scss",
+		"/Users/extiser/git/k-landing/markup/components/footer/footer.jade",
+		"/Users/extiser/git/k-landing/markup/components/section-top/section-top.jade",
+		"/Users/extiser/git/k-landing/markup/components/fp-nav/fp-nav.scss",
+		"/Users/extiser/git/k-landing/markup/components/modal/modal.jade",
+		"/Users/extiser/git/k-landing/markup/components/callback-form/callback-form.scss",
+		"/Users/extiser/git/k-landing/markup/components/timer/timer.jade",
+		"/Users/extiser/git/k-landing/markup/components/timer/timer.js",
+		"/Users/extiser/git/k-landing/markup/components/modal/modal.js",
+		"/Users/extiser/git/k-landing/markup/components/timer/timer.scss",
+		"/Users/extiser/git/k-landing/markup/pages/index.jade",
+		"/Users/extiser/git/k-landing/markup/components/fp-nav/fp-nav.jade",
+		"/Users/extiser/git/k-landing/markup/components/section-elite/section-elite.scss"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+			"/Users/extiser/MAMP/wiseadvice.ru/local/markup/uslugi-1s/",
+			"/Users/extiser/MAMP/wiseadvice.ru/local/",
+			"/Users/extiser/MAMP/wiseadvice.ru/local/.development/js/",
+			"/Users/extiser/MAMP/wiseadvice.ru/local/.development/",
+			"/Users/extiser/MAMP/wiseadvice.ru/local/markup/uslugi-1s",
+			"/Users/extiser/MAMP/wiseadvice.ru/local/markup/",
+			"/Users/extiser/MAMP/wiseadvice.ru/local/markup/uslugi-1s",
+			"/Users/extiser/MAMP/wiseadvice.ru/local/.development/src/stylus",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"video",
+			"wiseadvice.ru:8888",
+			"/local/",
+			"c-directions-automate",
+			"font-size: 20",
+			"a",
+			"c-direction",
+			"c-hrm",
+			"c-hrm-effect",
+			"numered",
+			"ol li",
+			"numered",
+			"ol li",
+			"inline",
+			"numered-list",
+			"content-area",
+			"js-accordion-trigger",
+			".js-accordion-trigger",
+			".c-accordeon",
+			"Видео",
+			"experience-section",
+			"vide",
+			"video",
+			"c-chart",
+			"Экспертное",
+			"Холдинг",
+			"Холд",
+			"3 технологии",
+			"Выполним",
+			"выполним",
+			"Выболним",
+			"Выбор",
+			"Хочу",
+			"Сравнить",
+			"Не знаете",
+			"contact-modal__caption",
+			"Аренда",
+			"Арендовать",
+			"Комплексная",
+			"Небольшой",
+			"Небольшо",
+			"c-demo-review",
+			"&nbsp;",
+			"&nbsp",
+			"Заказать",
+			"demo",
+			"Области",
+			"Облас",
+			"Варианты интеграции и обменов данными 1С",
+			"c-other",
+			"other",
+			"video",
+			"video-reviews",
+			"video-rewies",
+			"video",
+			"exper",
+			"x",
+			"scroll",
+			"scroll-text",
+			"scroll",
+			"more-info",
+			"DocFlow",
+			"Doc",
+			"другие",
+			"graph-line",
+			"graph",
+			"Другие направления",
+			"Почему",
+			"УПП",
+			"Финансист",
+			"Консолидация",
+			"Холдингом",
+			"Холдинг",
+			"Комплексная",
+			"УПП",
+			"EGG",
+			"ERP",
+			"Другие",
+			"Хочу",
+			"Хочу автоматизировать",
+			"Хочу автома",
+			"Реализованные проекты",
+			"custom",
+			"1",
+			"Судеб",
+			"Судб",
+			"Судебно",
+			"Реализов",
+			"Другие области нашей специализации",
+			"Другие",
+			"Подробное",
+			"2.0",
+			"Получить демо-доступ",
+			"Другие",
+			"Заказать бесплатное",
+			"typ",
+			"Реализов",
+			"custom",
+			"почему",
+			"Судебно",
+			"&nbsp;",
+			"Выполним автоматзацию на базе",
+			"Выбор",
+			"scroll",
+			"Реализованные",
+			"реализов",
+			"task",
+			"iconbu",
+			"specialization-icon-menu15",
+			"c-accord",
+			"Направления автоматизации финансового ",
+			"fp-nav",
+			".section-elite-slide",
+			"(max-width: 1920px)",
+			"(max-width: 1360px)",
+			"(max-width: 1920px)",
+			"margin-top",
+			"ol",
+			"fullpage",
+			"fp-tableCell",
+			"}",
+			"{",
+			".section-gallery-control",
+			"h1",
+			"img",
+			"шьп",
+			"offcanvas",
+			"off"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"http://wiseadvice.ru:8888",
+			"wiseadvice.ru:8888/local/",
+			" ",
+			"(max-width: 2560px)",
+			"(max-width: 1440px)",
+			"(max-width: 2560px)",
+			"",
+			".slide-control",
+			"#",
+			".form__label.form__label--inline",
+			".experts-menu-list__wrap",
+			".expert-favourite",
+			".form__top-label",
+			"label.form__label",
+			".meta-window-social__item",
+			".meta-window-form",
+			".meta-window-social",
+			".experts-rate__row",
+			"other-icons",
+			"Cambria-Bold",
+			"Cambria-Italic",
+			"",
+			".icon.zodiac__item",
+			"",
+			"url('../fonts/",
+			"i.main-categories-list-item__icon",
+			"",
+			"\n",
+			"",
+			"cost: ",
+			"        cityFinish: ",
+			"        cityFinish:'Самарканд',",
+			"cityStart: 'Ташкент',\ncityFinish:",
+			"cityFinish:",
+			"cost: 5",
+			"cost: 6",
+			"cost: 3",
+			"cost: 1",
+			"cost: 2",
+			"weight: '24 000',",
+			"%=staticPrefixForCss=%general/",
+			"http://shtukaturkapro.ru/TEMP/",
+			"DINPro-Bold",
+			"Roboto-Regular",
+			".advertising-form__label",
+			".advertising-form__element",
+			"\"",
+			"",
+			"p ",
+			"p",
+			"@media screen and (max-width: 800px) {",
+			"@media screen and (max-width: 768px) {",
+			"Lato-Thin",
+			"Lato-Regular",
+			"Lato-Medium",
+			"Lato-Light",
+			"Lato-Heavy",
+			"Lato-Hairline",
+			"Lato-Black",
+			"Lato-Bold",
+			"}",
+			"",
+			"#SkypeButton_Call_redvoronik_1",
+			"__item",
+			"../fonts/unisans",
+			".similar-article",
+			"li.sidebar-nav__item\n				a(href=\"#\" ",
+			".col-xs-12.col-md-12.col-lg-11",
+			".hidden-xs.col-lg-1",
+			".hidden-xs.hidden-md.col-lg-1",
+			".col-xs-12.col-md-12.col-lg-11.col-lg-offset-1",
+			".col-xs-12.col-md-12",
+			".col-lg",
+			"",
+			".visible-xs-block.visible-md-block",
+			".title.visible-xs-block",
+			"#70cfea",
+			"angular",
+			"SegoeUILight",
+			"../images/",
+			"&--individualCreate",
+			"&--momentGlory",
+			"&--threeColors",
+			"&--theOne",
+			"&--bigDisplay",
+			"../static/images/",
+			"contentRowL",
+			"contentRowF",
+			"content-row-l",
+			"content-row-f",
+			"'",
+			"jQuery",
+			"slider",
+			"\"",
+			"uslugi",
+			"/images",
+			"CalendarByWeek",
+			"www.acccentre.ru",
+			"acccentre.ru",
+			"firm-card-tabs-video-album",
+			"acccentre.iqdemo.ru",
+			"javascript:void(0)",
+			".slide__content__title",
+			"",
+			"/images/",
+			"water",
+			"cr_stone_kg",
+			"cr_stone_m",
+			"sand_m",
+			"sand_kg",
+			"sand_m",
+			"cement",
+			"bags",
+			"plaster_kg",
+			"bags",
+			"plaster_kg",
+			"",
+			"option",
+			"",
+			".pagination__item",
+			"order-by",
+			"/images/",
+			"../images/sprite.png",
+			"/images",
+			"/",
+			"/images",
+			"/images/",
+			""
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "markup/components/header/header.jade",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 179,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								95,
+								95
+							]
+						],
+						"settings":
+						{
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "markup/pages/index.jade",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 38,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								38,
+								38
+							]
+						],
+						"settings":
+						{
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 63.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 28.0
+	},
+	"output.find_results":
+	{
+		"height": 391.0
+	},
+	"pinned_build_system": "",
+	"project": "eva.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 229.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}

@@ -1,0 +1,19 @@
+.login {
+  font-family: $HelveticaNeueCyr-Medium;
+  font-size: rem-calc(13);
+  @media screen and (max-width: rem-calc(1300)) {
+    padding-right: 15px;
+  }
+  span {
+    padding-right: 5px;
+    padding-left: 10px;
+
+    color: $dark-blue;
+  }
+  &__enter {
+    padding-bottom: 2px;
+
+    color: $dark-blue;
+    border-bottom: 1px solid rgba($dark-blue, .2);
+  }
+}

@@ -1,0 +1,24 @@
+.top-bar {
+  z-index: 99;
+
+  background-color: $white;
+  &__wrapper {
+    display: flex;
+
+    align-items: center;
+    @extend .wrapper;
+    justify-content: space-between;
+  }
+  &__how-it-works {
+    @media screen and (min-width: rem-calc(1030)) and (max-width: rem-calc(1300)) {
+      margin-left: -200px;
+    }
+  }
+  &._fixed {
+    position: fixed;
+    top: 0;
+    left: 0;
+
+    width: 100%;
+  }
+}

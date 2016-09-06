@@ -1,0 +1,7 @@
+mixin top-bar(data)
+  .top-bar._fixed
+    .top-bar__wrapper
+      +select-industry(data)
+      .top-bar__how-it-works
+        a(href="#" title="").button._small._blue Как это работает?
+      +login

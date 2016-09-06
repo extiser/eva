@@ -1,0 +1,35 @@
+.select-industry {
+  &__mobile {
+    display: none;
+  }
+  &__list {
+    display: flex;
+
+    align-items: stretch;
+    justify-content: flex-start;
+  }
+  &__item {
+    display: block;
+
+    min-width: 50px;
+    padding-right: 20px;
+    padding-left: 20px;
+
+    text-transform: uppercase;
+
+    color: $dark-blue;
+    border-left: 1px solid darken($white, 5%); // #f2f2f2
+
+    font-family: $HelveticaNeueCyr-Bold;
+    font-size: rem-calc(11);
+    line-height: 50px;
+    &:last-child {
+      border-right: 1px solid darken($white, 5%); // #f2f2f2
+    }
+    span {
+      padding-bottom: 2px;
+
+      border-bottom: 1px solid rgba($dark-blue, .2);
+    }
+  }
+}

@@ -1,0 +1,91 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "eva";
+  font-weight: normal;
+  font-style: normal;
+
+  src: url("../fonts/eva.eot?#iefix") format("embedded-opentype"),
+  url("../fonts/eva.woff") format("woff"),
+  url("../fonts/eva.ttf") format("truetype"),
+  url("../fonts/eva.svg#eva") format("svg");
+}
+
+[data-icon]:before {
+  content: attr(data-icon);
+  text-transform: none !important;
+
+  font-family: "eva" !important;
+  font-weight: normal !important;
+  font-style: normal !important;
+  font-variant: normal !important;
+  line-height: 1;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  speak: none;
+}
+
+[class^="icon-"]:before,
+[class*=" icon-"]:before {
+  text-transform: none !important;
+
+  font-family: "eva" !important;
+  font-weight: normal !important;
+  font-style: normal !important;
+  font-variant: normal !important;
+  line-height: 1;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  speak: none;
+}
+
+.icon-align-left:before {
+  content: "\61";
+}
+.icon-arrow-noline-right:before {
+  content: "\62";
+}
+.icon-arrow-down:before {
+  content: "\63";
+}
+.icon-arrow-right:before {
+  content: "\64";
+}
+.icon-arrow-round-right:before {
+  content: "\65";
+}
+.icon-bell:before {
+  content: "\66";
+}
+.icon-check:before {
+  content: "\67";
+}
+.icon-doc:before {
+  content: "\68";
+}
+.icon-eye:before {
+  content: "\69";
+}
+.icon-hexagon:before {
+  content: "\6a";
+}
+.icon-menu:before {
+  content: "\6b";
+}
+.icon-play:before {
+  content: "\6c";
+}
+.icon-search:before {
+  content: "\6d";
+}
+.icon-star:before {
+  content: "\6e";
+}
+.icon-user:before {
+  content: "\6f";
+}
+.icon-logo:before {
+  content: "\70";
+}

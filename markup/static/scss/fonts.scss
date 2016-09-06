@@ -1,18 +1,17 @@
-/* Your custom fonts here */
+@include font-face(HelveticaNeueCyr-Bold, "../fonts/HelveticaNeueCyr-Bold");
+$HelveticaNeueCyr-Bold: 'HelveticaNeueCyr-Bold', Helvetica, Arial, sans-serif;
 
-/* Example
+@include font-face(HelveticaNeueCyr-Medium, "../fonts/HelveticaNeueCyr-Medium");
+$HelveticaNeueCyr-Medium: 'HelveticaNeueCyr-Medium', Helvetica, Arial, sans-serif;
 
-@font-face {
-    font-family: 'CustomFont';
-    src: url('../fonts/Custom-Font.eot');
-    src: url('../fonts/Custom-Font.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/Custom-Font.woff') format('woff'),
-         url('../fonts/Custom-Font.svg#custom_font') format('svg');
-    font-weight: 400;       // For normal width. It could has another value   
-    font-style: normal;     // Also could has another value
-    }
+@include font-face(HelveticaNeueCyr-Roman, "../fonts/HelveticaNeueCyr-Roman");
+$HelveticaNeueCyr-Roman: 'HelveticaNeueCyr-Roman', Helvetica, Arial, sans-serif;
 
+@include font-face(MyriadPro-Regular, "../fonts/MyriadPro-Regular");
+$MyriadPro-Regular: 'MyriadPro-Regular', Helvetica, Arial, sans-serif;
 
-// Var for using custom font
-$CustomFont: 'CustomFont', Helvetica, Arial, sans-serif;
-*/
+@include font-face(RobotoSlab-Bold, "../fonts/RobotoSlab-Bold");
+$RobotoSlab-Bold: 'RobotoSlab-Bold', Helvetica, Arial, sans-serif;
+
+@include font-face(RobotoSlab-Regular, "../fonts/RobotoSlab-Regular");
+$RobotoSlab-Regular: 'RobotoSlab-Regular', Helvetica, Arial, sans-serif;

@@ -2,11 +2,23 @@ doctype html
 html(class="no-js", lang="ru")
 
   include ../components/head/head
+  include ../components/top-bar/top-bar
+  include ../components/select-industry/select-industry
+  include ../components/login/login
+  include ../components/header/header
+  include ../components/select-language/select-language
+  include ../components/menu/menu
+  include ../components/search/search
+  include ../components/slider/slider
   include ../components/footer/footer
 
   head
     +head(head.defaults)
   body
+    block topbar
+      +top-bar(data)
+    block header
+      +header(data)
     block content
       h1 Hello! I'm TARS Eva
     block footer

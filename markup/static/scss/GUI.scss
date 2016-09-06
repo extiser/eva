@@ -1,2 +1,201 @@
 // GUI stylies of the project
 // For example, styles of the links, buttons and so on.
+
+.wrapper {
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 1310px;
+  margin: auto;
+}
+
+// section
+.section {
+  padding-top: rem-calc(72);
+  padding-bottom: rem-calc(80);
+}
+
+// logotypes
+.logo {
+  &._header {
+    @include bg-svg($logo-header);
+  }
+  &._footer {
+    @include bg-svg($logo-footer);
+  }
+}
+
+// colors
+._color-white {
+  color: $white;
+}
+._color-black {
+  color: $black;
+}
+._bg-gray {
+  background-color: spin(saturate(lighten($black, 96%), 14%), 200); // #f3f5f6
+}
+._bg-white {
+  background-color: $white;
+}
+
+// titles
+.title {
+  margin: 0;
+
+  font-family: $RobotoSlab-Bold;
+  font-weight: normal;
+  &._h1 {
+    font-size: rem-calc(65);
+  }
+  &._h2 {
+    font-size: rem-calc(36);
+    line-height: rem-calc(46);
+  }
+  &._h3 {
+    font-size: rem-calc(23);
+    line-height: rem-calc(25);
+  }
+  &._h4 {
+    font-size: rem-calc(16);
+    line-height: rem-calc(25);
+  }
+  &._promo {
+    font-size: rem-calc(51);
+    line-height: rem-calc(56);
+  }
+  &._bordered {
+    span {
+      border-bottom: 1px solid rgba($black, .15);
+    }
+  }
+  &._more {
+    display: flex;
+
+    align-items: center;
+    justify-content: space-between;
+  }
+}
+
+// more link in title
+.more {
+  position: relative;
+
+  padding-right: rem-calc(33);
+  .icon {
+    right: 0;
+
+    color: adjust-hue(desaturate(lighten($dark-blue, 51%), 17%), 1); // #a6c4d9
+
+    font-size: rem-calc(23);
+
+    @include vertical-center;
+  }
+  a {
+    color: adjust-hue(saturate(lighten($dark-blue, 4%), 10%), 1); // #185078
+    border-bottom: adjust-hue(desaturate(lighten($dark-blue, 51%), 17%), 1); // #a6c4d9
+
+    font-size: rem-calc(15);
+  }
+}
+
+// link
+a {
+  text-decoration: none;
+}
+
+// paragraphs
+.paragraph {
+  &._default {
+    margin-top: 10px;
+    margin-bottom: 0;
+
+    color: $black;
+
+    font-family: $HelveticaNeueCyr-Roman;
+    font-size: rem-calc(16);
+    line-height: rem-calc(25);
+  }
+  &._description {
+    color: adjust-hue(saturate(lighten($black, 49%), 2%), 195); // #7c7f80
+
+    font-family: $MyriadPro-Regular;
+    font-size: rem-calc(14);
+    line-height: rem-calc(20);
+  }
+  &._smallest {
+    color: adjust-hue(desaturate(lighten($dark-blue, 27%), 49%), -4); // #78868d
+
+    font-family: $HelveticaNeueCyr-Roman;
+    font-size: rem-calc(13);
+    line-height: rem-calc(23);
+  }
+}
+
+// buttons
+.button {
+  display: inline-block;
+
+  color: $white;
+  border: 0;
+
+  font-family: $HelveticaNeueCyr-Medium;
+
+  @include transition;
+  &:focus {
+    outline: none;
+  }
+  &._small {
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+
+    border-radius: 20px;
+
+    font-size: rem-calc(13);
+  }
+  &._medium {
+    padding-top: 20px;
+    padding-right: 40px;
+    padding-bottom: 22px;
+    padding-left: 40px;
+
+    font-size: rem-calc(16);
+  }
+  &._blue {
+    background-color: adjust-hue(saturate(lighten($dark-blue, 4%), 10%), 1); // #185078
+    &:hover {
+      background-color: lighten(adjust-hue(saturate(lighten($dark-blue, 4%), 10%), 1), 5%);
+    }
+  }
+  &._red {
+    background-color: $red;
+    &:hover {
+      background-color: lighten($red, 3%);
+    }
+  }
+  &._bordered {
+    box-sizing: border-box;
+    width: 233px;
+    height: 72px;
+
+    color: $white;
+    border: 1px solid rgba($white, .3);
+    border-radius: 50px;
+    background-color: transparent;
+
+    font-family: $HelveticaNeueCyr-Roman;
+    font-size: rem-calc(18);
+    line-height: 72px;
+
+    @include transition;
+    .icon {
+      margin-right: 15px;
+
+      font-size: 12px;
+    }
+    &:hover {
+      border-color: rgba($white, 1);
+    }
+  }
+}

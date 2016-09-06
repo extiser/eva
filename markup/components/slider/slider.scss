@@ -1,0 +1,100 @@
+.slider {
+  z-index: 0;
+}
+
+.slider-item {
+  position: relative;
+
+  min-height: 790px;
+  &:after {
+    z-index: 99;
+    right: -305px;
+
+    content: "";
+
+    @include bg($lines-left-white);
+    @include vertical-center;
+  }
+  &._pharmacology {
+    background: linear-gradient(to bottom, adjust-hue(saturate(darken($dark-blue, 4%), 2%), 2), adjust-hue(desaturate(lighten($dark-blue, 13%), 31%), -6));
+    .slider-item-content {
+      &:before {
+        @include bg($pharmacology);
+      }
+    }
+  }
+  &._cosmetology {
+    background: linear-gradient(to bottom, $dark-purple, adjust-hue(desaturate(lighten($dark-purple, 12%), 9%), -18));
+    .slider-item-content {
+      &:before {
+        @include bg($cosmetology);
+      }
+    }
+  }
+  &._food-industry {
+    background: linear-gradient(to bottom, $dark-green, adjust-hue(desaturate(lighten($dark-green, 24%), 41%), 1));
+    .slider-item-content {
+      &:before {
+        @include bg($food-industry);
+      }
+    }
+  }
+}
+
+.slider-item-content {
+  text-align: center;
+  &:before {
+    position: relative;
+    z-index: 99;
+    top: 0;
+
+    display: block;
+
+    margin: 0 auto 44px;
+
+    content: "";
+  }
+  &__choose-theme {
+    margin-bottom: 10px;
+
+    letter-spacing: 295 / 1000 * 1em;
+    text-transform: uppercase;
+
+    opacity: .3;
+    color: $white;
+
+    font-family: $HelveticaNeueCyr-Roman;
+    font-size: rem-calc(12);
+  }
+  &__title {
+    margin-bottom: 23px;
+  }
+}
+
+// swiper pagination
+.swiper-pagination-bullets {
+  bottom: 45px !important;
+
+  display: flex;
+
+  align-items: center;
+  justify-content: center;
+}
+
+.swiper-pagination-bullet {
+  width: 14px;
+  height: 14px;
+  margin: 0 6px !important;
+
+  background-color: rgba($white, .6);
+
+  @include transition;
+}
+
+.swiper-pagination-bullet-active {
+  width: 24px;
+  height: 24px;
+
+  border: 2px solid rgba($white, .7);
+  background-color: transparent;
+}
