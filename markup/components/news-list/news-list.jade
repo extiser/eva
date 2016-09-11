@@ -1,0 +1,39 @@
+mixin news-list(data)
+  .news-list.js-swiper-news
+    .news-list-column._full.swiper-slide
+      
+      .news-list-item._big._content-order-1
+        .news-list-item__content
+          .news-list-item__category._blue Фармакология
+          a(href="#" title="").news-list-item__title Новинка для ухода за ногтями
+          .news-list-item__text.paragraph._description Обеспечить правильную всестороннюю заботу о ногтевой пластине, укрепить ее и защитить от негативного воздействия внешних факторов помогут уникальные средства.
+          .news-list-item__date 12 июл, 2016
+        .news-list-item__image
+          img(src="%=static=%images/assets/news-list/news-1.jpg" alt="")
+    
+    .news-list-column._hf.swiper-slide
+
+      .news-list-item._small._content-order-2
+        .news-list-item__content
+          .news-list-item__category._gold Фармакология
+          a(href="#" title="").news-list-item__title «Магнит» объявил о росте выручки за июль
+          .news-list-item__date 12 июл, 2016
+        .news-list-item__image
+          img(src="%=static=%images/assets/news-list/news-2.jpg" alt="")
+      .news-list-item._small._content-order-1
+        .news-list-item__content
+          .news-list-item__category._blue Пищ. пром.
+          a(href="#" title="").news-list-item__title «Магнит» объявил о росте выручки за июль
+          .news-list-item__date 12 июл, 2016
+        .news-list-item__image
+          img(src="%=static=%images/assets/news-list/news-2.jpg" alt="")
+
+    .news-list-column._hf.swiper-slide
+
+      .news-list-item._big._noimg
+        .news-list-item__content
+          .news-list-item__category._purple Фармакология
+          a(href="#" title="").news-list-item__title Оснащение косметологического производства: с чего начать
+          .news-list-item__date 12 июл, 2016
+
+    .swiper-pagination

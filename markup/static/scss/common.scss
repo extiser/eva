@@ -1,6 +1,19 @@
 // Common styles of the project
 
-html, body {
+html,
+body {
   height: 100%;
+
   font-size: $base-font-size;
+  position: relative;
+  @media screen and (max-width: rem-calc(1180)) {
+    font-size: 14px;
+  }
+  @media screen and (max-width: rem-calc(1080)) {
+    font-size: 10px;
+  }
+  @media screen and (max-width: rem-calc(960px)) {
+    overflow-x: hidden;
+    font-size: $base-font-size;
+  }
 }

@@ -1,0 +1,13 @@
+mixin video-block(data)
+  .video-block.section._bg-white
+    .video-block__wrapper
+      .video-block__left
+        .video-block__title.title._h2 Как происходит взаимодействие покупателей и продавцов
+        .video-block__description.paragraph._description
+          p Посмотрите видео о наших услугах и о принципе работы сервиса.
+
+      .video
+        .video-overlay.js-video-overlay
+          .video-play.js-video-play
+            i.icon.icon-play
+        | <iframe src="https://www.youtube.com/embed/YhakRIaVrVk?enablejsapi=1&rel=0&controls=0&showinfo=0&modestbranding=1" frameborder="0" allowfullscreen="" id="video" width="950" height="505"></iframe>

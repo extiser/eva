@@ -1,0 +1,11 @@
+mixin popular-category(data)
+  .popular-category.section._bg-gray
+    .popular-category__wrapper
+      .popular-category__title.title._h2._more Популярные категориии
+        .more 
+          a(href="#" title="") Все оборудование
+          i.icon.icon-arrow-round-right
+
+      .popular-category__list
+        for item in equipmentPopular
+          +equipment-block(item.img, item.title, item.manufacturer, item.count, item.modiffer)

@@ -8,6 +8,9 @@
   background-color: saturate(darken(#1a4460, 9%), 2%); // #102c3f
 
   line-height: 27px;
+  @media screen and (max-width: rem-calc(960px)) {
+    margin-left: 15px;
+  }
   &:hover {
     cursor: pointer;
     .select-language {

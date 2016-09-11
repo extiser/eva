@@ -4,6 +4,32 @@
   @media screen and (max-width: rem-calc(1300)) {
     padding-right: 15px;
   }
+  &__mobile {
+    position: relative;
+
+    display: none;
+
+    width: 30px;
+    height: 30px;
+
+    border-radius: 50%;
+    background-color: $red;
+    .icon {
+      color: $white;
+
+      font-size: 16px;
+
+      @include absolute-center;
+    }
+    @media screen and (max-width: rem-calc(960px)) {
+      display: block;
+    }
+  }
+  &__list {
+    @media screen and (max-width: rem-calc(960px)) {
+      display: none;
+    }
+  }
   span {
     padding-right: 5px;
     padding-left: 10px;

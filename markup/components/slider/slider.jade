@@ -1,6 +1,7 @@
 mixin slider(data)
   .slider
-    .swiper-container
+    +header(data)
+    .swiper-container.js-swiper-slider
       .swiper-wrapper
         .swiper-slide.slider-item._pharmacology
           .slider-item-content

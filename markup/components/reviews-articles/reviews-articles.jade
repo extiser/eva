@@ -1,0 +1,29 @@
+mixin reviews-articles(data)
+  .reviews-articles.section._notoppadding._bg-gray
+    .reviews-articles__wrapper
+      .reviews-articles__title.title._h2._bordered
+        span Обзоры и статьи
+
+      .reviews-articles-list
+        .reviews-articles-item.reviews-articles-item-video._hf
+          .reviews-articles-item__content
+            .reviews-articles-item__category Видео эксперимент
+            a(href="#" title="").reviews-articles-item__play
+              i.icon.icon-play
+            a(href="#" title="").reviews-articles-item__title Новый лабораторный дозатор
+          .reviews-articles-item__bg
+            img(src="%=static=%images/assets/reviews-articles/video.jpg" alt="")
+
+        .reviews-articles-item.reviews-articles-item-review._qr
+          .reviews-articles-item__bg
+              img(src="%=static=%images/assets/reviews-articles/review.jpg" alt="")
+          .reviews-articles-item__content
+            .reviews-articles-item__category ОБЗОР
+            a(href="#" title="").reviews-articles-item__title Новое решение для косметического производства
+          
+        .reviews-articles-item.reviews-articles-item-article._qr
+          .reviews-articles-item__content
+            .reviews-articles-item__category Статья
+            a(href="#" title="").reviews-articles-item__title Рассказываем все о новых крановых весах
+          .reviews-articles-item__bg
+              img(src="%=static=%images/assets/reviews-articles/article.jpg" alt="")

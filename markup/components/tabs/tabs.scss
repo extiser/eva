@@ -1,0 +1,112 @@
+.tabs {
+  &__wrapper {
+    @extend .wrapper;
+  }
+}
+
+.tabs-headers {
+  display: flex;
+
+  align-items: flex-start;
+  justify-content: flex-start;
+  &__item {
+    margin-right: 20px;
+
+    color: #afbcc2;
+    border-bottom: 1px dotted #8f9ca2;
+
+    font-family: $RobotoSlab-Regular;
+    font-size: rem-calc(36);
+
+    @include transition;
+    @media screen and (max-width: rem-calc(760px)) {
+      margin-right: 15px;
+
+      font-size: rem-calc(22);
+    }
+    &:hover {
+      cursor: pointer;
+
+      border-bottom-color: transparent;
+    }
+    &._active {
+      color: $black;
+      border-bottom: 0;
+
+      font-family: $RobotoSlab-Bold;
+      &:hover {
+        cursor: default;
+      }
+    }
+  }
+}
+
+.tabs-content {
+  position: relative;
+  &__item {
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    visibility: hidden;
+
+    width: 100%;
+
+    opacity: 0;
+
+    @include transition;
+    &._active {
+      position: relative;
+
+      visibility: visible;
+
+      opacity: 1;
+    }
+  }
+  &__list {
+    display: flex;
+
+    margin-top: 40px;
+
+    align-items: stretch;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+}
+
+// swiper pagination
+.tabs .swiper-pagination {
+  display: none;
+
+  margin-top: 18px;
+  @media screen and (max-width: rem-calc(760px)) {
+    display: none;
+  }
+}
+.tabs .swiper-pagination-bullets {
+  position: relative !important;
+  bottom: 0 !important;
+
+  display: flex;
+
+  align-items: center;
+  justify-content: center;
+}
+
+.tabs .swiper-pagination-bullet {
+  width: 14px;
+  height: 14px;
+  margin: 0 6px !important;
+
+  background-color: #a6c4d9;
+
+  @include transition;
+}
+
+.tabs .swiper-pagination-bullet-active {
+  width: 24px;
+  height: 24px;
+
+  border: 2px solid #a6c4d9;
+  background-color: transparent;
+}

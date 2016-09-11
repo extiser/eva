@@ -1,0 +1,78 @@
+.rating-manufacturers {
+  padding: 23px 13px;
+
+  border: 1px solid #d9dee0;
+  &__title {
+    position: relative;
+
+    margin-bottom: 22px;
+    padding-left: 37px;
+
+    color: $black;
+
+    font-family: $RobotoSlab-Bold;
+    font-size: rem-calc(18);
+    .icon {
+      position: absolute;
+      top: 1px;
+      left: 0;
+
+      color: $red;
+
+      font-size: 20px;
+    }
+  }
+}
+
+.rating-manufacturers-list {
+  margin: 0;
+  padding: 0;
+
+  list-style: none;
+
+  counter-reset: list;
+}
+
+.rating-manufacturers-item {
+  position: relative;
+
+  display: flex;
+
+  margin-top: 8px;
+  padding-left: 30px;
+
+  align-items: flex-start;
+  justify-content: space-between;
+  &:before {
+    position: absolute;
+    top: 12px;
+    left: 0;
+
+    content: counter(list) ".";
+    counter-increment: list;
+
+    color: $black;
+
+    font-family: $RobotoSlab-Regular;
+    font-size: rem-calc(16);
+  }
+  &__country {
+    color: #8b8b8b;
+
+    font-family: $HelveticaNeueCyr-Roman;
+    font-size: rem-calc(12);
+  }
+  &__title {
+    color: $black;
+    border-bottom: 1px solid rgba($black, .15);
+
+    font-family: $HelveticaNeueCyr-Roman;
+    font-size: rem-calc(16);
+    line-height: rem-calc(25);
+
+    @include transition;
+    &:hover {
+      border-bottom-color: transparent;
+    }
+  }
+}

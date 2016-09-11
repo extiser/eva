@@ -1,2 +1,30 @@
 mixin footer(data)
-    footer.footer
+  footer.footer.section._bg-white
+    .footer__wrapper
+      .footer__column
+        .footer__row
+          .footer__logo
+          .footer-menu
+            a(href="#" title="").footer-menu__item 
+              span Каталог оборудования
+            a(href="#" title="").footer-menu__item 
+              span Обзоры
+            a(href="#" title="").footer-menu__item 
+              span Новости
+            a(href="#" title="").footer-menu__item 
+              span Статьи
+            a(href="#" title="").footer-menu__item 
+              span О нас
+        .footer__email
+          a(href="mailto:info@ev-any.ru" title="") info@ev-any.ru
+        .footer__copyright © 2016 Equipment vita analytics 
+
+      .footer__column
+        form.footer-subscribe
+          input(type="email" placeholder="Ваша эл. почта" value="").footer-subscribe__field
+          button(type="submit").footer-subscribe__submit
+            i.icon.icon-arrow-right
+        .footer-subscribe__span Подписка на рассылку нового материалла
+
+        .footer-made Разработка сайта — 
+          a(href="#" title="") NIKOLAND

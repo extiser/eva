@@ -1,0 +1,9 @@
+mixin equipment-block(img, title, manufacturer, count, modiffer)
+  - var modifferSwiperBlock = attributes.class || '';
+  .equipment-block(class="#{modiffer} #{modifferSwiperBlock}")
+    .equipment-block__img
+      img(src="%=static=%images/assets/#{img}.jpg" alt="")
+    a(href="#" title="").equipment-block__link #{title}
+    .equipment-block__description
+      p.paragraph._description #{manufacturer}
+      p.paragraph._description #{count}

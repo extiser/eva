@@ -1,0 +1,22 @@
+mixin tabs(data)
+  .tabs.section._bg-gray.js-tabs
+    .tabs__wrapper
+      .title._more
+        .tabs-headers.js-tabs-headers
+          .tabs-headers__item.js-tabs-handler._active Новинки
+          .tabs-headers__item.js-tabs-handler Популярное
+        .more
+          a(href="#" title="") Все оборудование
+          i.icon.icon-arrow-round-right
+
+      .tabs-content.js-tabs-content
+        .tabs-content__item.js-tabs-content-item._active
+          .tabs-content__list.js-swiper-tabs
+            for item in equipmentTabs
+              +equipment-block(item.img, item.title, item.manufacturer, item.count, item.modiffer).swiper-slide
+            .swiper-pagination
+        .tabs-content__item.js-tabs-content-item
+          .tabs-content__list.js-swiper-tabs
+            for item in equipmentTabs
+              +equipment-block(item.img, item.title, item.manufacturer, item.count, item.modiffer).swiper-slide
+            .swiper-pagination

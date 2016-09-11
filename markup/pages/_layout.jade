@@ -10,6 +10,15 @@ html(class="no-js", lang="ru")
   include ../components/menu/menu
   include ../components/search/search
   include ../components/slider/slider
+  include ../components/popular-category/popular-category
+  include ../components/equipment-block/equipment-block
+  include ../components/video-block/video-block
+  include ../components/tabs/tabs
+  include ../components/promo/promo
+  include ../components/news/news
+  include ../components/news-list/news-list
+  include ../components/rating-manufacturers/rating-manufacturers
+  include ../components/reviews-articles/reviews-articles
   include ../components/footer/footer
 
   head
@@ -17,8 +26,6 @@ html(class="no-js", lang="ru")
   body
     block topbar
       +top-bar(data)
-    block header
-      +header(data)
     block content
       h1 Hello! I'm TARS Eva
     block footer

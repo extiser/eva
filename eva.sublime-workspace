@@ -4,44 +4,160 @@
 		"selected_items":
 		[
 			[
-				"max-",
-				"max-width"
-			],
-			[
-				"padd",
-				"padding"
-			],
-			[
-				"spa",
-				"space-between"
-			],
-			[
 				"marign",
-				"margin-right"
+				"margin-top"
+			],
+			[
+				"fn",
+				"font-family"
 			],
 			[
 				"fon",
 				"font-size"
 			],
 			[
-				"me",
-				"menu__item"
-			],
-			[
 				"pad",
 				"padding-top"
 			],
 			[
-				"visi",
-				"visible"
+				"foo",
+				"footer-subscribe	(footer.scss)"
+			],
+			[
+				"trans",
+				"transparent"
+			],
+			[
+				"border-bott",
+				"border-bottom"
 			],
 			[
 				"margin",
-				"margin-left"
+				"margin-bottom"
+			],
+			[
+				"fo",
+				"footer-subscribe"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"revi",
+				"reviews-articles-item"
 			],
 			[
 				"text",
-				"text-decoration"
+				"text-transform"
+			],
+			[
+				"rev",
+				"reviews-articles-item"
+			],
+			[
+				"rag",
+				"rating-manufacturers"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"rat",
+				"rating-manufacturers-item"
+			],
+			[
+				"news",
+				"news-list-item"
+			],
+			[
+				"news-",
+				"news-list-item"
+			],
+			[
+				"spac",
+				"space-between"
+			],
+			[
+				"news-list-item",
+				"news-list-item__content"
+			],
+			[
+				"new",
+				"news-list"
+			],
+			[
+				"js-tabs",
+				"js-tabs-content-item"
+			],
+			[
+				"tabs",
+				"tabsIntex"
+			],
+			[
+				"border-bot",
+				"border-bottom-color"
+			],
+			[
+				"tab",
+				"tabs-headers"
+			],
+			[
+				"vide",
+				"video-block"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"img",
+				"imgWidth"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"equ",
+				"equipmentPopular	(equipment-block.jade)"
+			],
+			[
+				"equi",
+				"equipmentPopular	(equipment-block.jade)"
+			],
+			[
+				"eq",
+				"equipmentPopular"
+			],
+			[
+				"slid",
+				"slider-item"
+			],
+			[
+				"sld",
+				"slider-item"
+			],
+			[
+				"slide",
+				"slider-item	(slider.scss)"
+			],
+			[
+				"spa",
+				"space-between"
+			],
+			[
+				"me",
+				"menu__item"
+			],
+			[
+				"visi",
+				"visible"
 			],
 			[
 				"lo",
@@ -50,10 +166,6 @@
 			[
 				"bt",
 				"button	(GUI.scss)"
-			],
-			[
-				"fn",
-				"font-size"
 			],
 			[
 				"sele",
@@ -244,10 +356,6 @@
 				"inherit"
 			],
 			[
-				"trans",
-				"transition"
-			],
-			[
 				"call",
 				"callback-form	(index.jade)"
 			],
@@ -274,10 +382,6 @@
 			[
 				"form",
 				"form-element"
-			],
-			[
-				"back",
-				"background-color"
 			],
 			[
 				"secti",
@@ -410,131 +514,11 @@
 			[
 				"Pr",
 				"ProbaPro-Light	(fonts.scss)"
-			],
-			[
-				"P",
-				"ProbaPro-SemiBold	(fonts.scss)"
-			],
-			[
-				"flex",
-				"flex-start"
-			],
-			[
-				"font-s",
-				"font-size"
-			],
-			[
-				"f",
-				"font-family"
-			],
-			[
-				"section",
-				"section-top"
-			],
-			[
-				"rem",
-				"rem-calc	(mixins.scss)"
-			],
-			[
-				"backgroun",
-				"background-color"
-			],
-			[
-				"ali",
-				"alignItems"
-			],
-			[
-				"jus",
-				"justifyContent"
-			],
-			[
-				"he",
-				"header	(header.jade)"
-			],
-			[
-				"ma",
-				"margin"
-			],
-			[
-				"art",
-				"article-video"
-			],
-			[
-				"marg",
-				"margin-left"
-			],
-			[
-				"site",
-				"sitemap-page-item"
-			],
-			[
-				"fo",
-				"footer-menu"
-			],
-			[
-				"max",
-				"max-width"
-			],
-			[
-				"ab",
-				"about-page	(about.jade)"
-			],
-			[
-				"dire",
-				"direct-top"
-			],
-			[
-				"rea",
-				"read-more"
-			],
-			[
-				"marin",
-				"margin-right"
-			],
-			[
-				"min",
-				"min-width"
-			],
-			[
-				"ti",
-				"title"
-			],
-			[
-				"butt",
-				"button	(GUI.scss)"
-			],
-			[
-				"med",
-				"medium-8"
-			],
-			[
-				"fom",
-				"form__label"
-			],
-			[
-				"ex",
-				"expert-settings"
 			]
 		]
 	},
 	"buffers":
 	[
-		{
-			"file": "markup/components/header/header.jade",
-			"settings":
-			{
-				"buffer_size": 179,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "markup/pages/index.jade",
-			"settings":
-			{
-				"buffer_size": 38,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -609,25 +593,59 @@
 	[
 		"/Users/extiser/git/eva/markup",
 		"/Users/extiser/git/eva/markup/components",
-		"/Users/extiser/git/eva/markup/components/header",
 		"/Users/extiser/git/eva/markup/pages",
 		"/Users/extiser/git/eva/markup/static",
 		"/Users/extiser/git/eva/markup/static/scss"
 	],
 	"file_history":
 	[
+		"/Users/extiser/git/eva/markup/components/video-block/video-block.scss",
+		"/Users/extiser/git/eva/markup/static/scss/common.scss",
+		"/Users/extiser/git/eva/markup/components/footer/footer.jade",
+		"/Users/extiser/git/eva/markup/components/footer/footer.scss",
+		"/Users/extiser/git/eva/markup/components/reviews-articles/reviews-articles.jade",
+		"/Users/extiser/git/eva/markup/components/reviews-articles/reviews-articles.scss",
+		"/Users/extiser/git/eva/markup/static/scss/GUI.scss",
+		"/Users/extiser/git/eva/markup/pages/index.jade",
+		"/Users/extiser/git/eva/markup/pages/_layout.jade",
+		"/Users/extiser/git/nemodnaya/markup/modules/single-content/single-content.scss",
+		"/Users/extiser/git/eva/markup/components/news/news.jade",
+		"/Users/extiser/git/eva/markup/components/news/news.scss",
+		"/Users/extiser/git/eva/markup/components/rating-manufacturers/rating-manufacturers.jade",
+		"/Users/extiser/git/eva/markup/components/rating-manufacturers/rating-manufacturers.scss",
+		"/Users/extiser/git/nemodnaya/markup/modules/single-content/single-content.jade",
+		"/Users/extiser/git/eva/markup/components/news-list/news-list.scss",
+		"/Users/extiser/git/eva/markup/components/news-list/news-list.jade",
+		"/Users/extiser/git/eva/markup/components/news-list/data/data.js",
+		"/Users/extiser/git/eva/markup/components/promo/promo.jade",
+		"/Users/extiser/git/eva/markup/components/promo/promo.scss",
+		"/Users/extiser/git/eva/markup/components/tabs/tabs.js",
+		"/Users/extiser/git/eva/markup/components/tabs/tabs.scss",
+		"/Users/extiser/git/eva/markup/components/tabs/tabs.jade",
+		"/Users/extiser/git/eva/markup/components/popular-category/data/data.js",
+		"/Users/extiser/git/eva/markup/components/tabs/data/data.js",
+		"/Users/extiser/git/eva/markup/components/equipment-block/equipment-block.jade",
+		"/Users/extiser/git/eva/markup/components/video-block/video-block.jade",
+		"/Users/extiser/git/eva/markup/components/video-block/video-block.js",
+		"/Users/extiser/git/eva/markup/components/equipment-block/equipment-block.scss",
+		"/Users/extiser/git/eva/markup/components/popular-category/popular-category.jade",
+		"/Users/extiser/git/eva/markup/components/popular-category/popular-category.scss",
+		"/Users/extiser/git/eva/markup/components/header/header.scss",
+		"/Users/extiser/git/eva/markup/components/equipment-block/equipment-block.js",
+		"/Users/extiser/git/eva/markup/components/equipment-block/data/data.js",
+		"/Users/extiser/git/eva/markup/components/slider/slider.jade",
+		"/Users/extiser/git/eva/markup/components/slider/slider.scss",
+		"/Users/extiser/git/eva/tars-config.js",
+		"/Users/extiser/git/eva/markup/components/slider/slider.js",
+		"/Users/extiser/git/eva/markup/components/search/search.scss",
+		"/Users/extiser/git/eva/markup/components/top-bar/top-bar.scss",
+		"/Users/extiser/git/eva/markup/static/scss/fonts.scss",
+		"/Users/extiser/git/eva/markup/components/header/header.jade",
 		"/Users/extiser/git/eva/markup/components/menu/menu.jade",
 		"/Users/extiser/git/eva/markup/components/menu/menu.scss",
 		"/Users/extiser/git/eva/markup/components/search/search.jade",
-		"/Users/extiser/git/eva/markup/components/search/search.scss",
-		"/Users/extiser/git/eva/markup/components/header/header.scss",
-		"/Users/extiser/git/eva/markup/components/top-bar/top-bar.scss",
-		"/Users/extiser/git/eva/markup/static/scss/GUI.scss",
 		"/Users/extiser/git/eva/markup/components/select-language/select-language.jade",
 		"/Users/extiser/git/eva/markup/components/select-language/select-language.scss",
-		"/Users/extiser/git/eva/markup/static/scss/common.scss",
-		"/Users/extiser/git/eva/markup/pages/_layout.jade",
-		"/Users/extiser/git/eva/markup/components/header/header.jade",
 		"/Users/extiser/git/eva/markup/components/top-bar/top-bar.jade",
 		"/Users/extiser/git/eva/markup/components/login/login.scss",
 		"/Users/extiser/git/eva/markup/components/select-industry/select-industry.scss",
@@ -635,14 +653,11 @@
 		"/Users/extiser/git/eva/markup/components/login/login.jade",
 		"/Users/extiser/git/eva/markup/static/scss/mixins.scss",
 		"/Users/extiser/git/eva/markup/static/scss/vars.scss",
-		"/Users/extiser/git/eva/markup/pages/index.jade",
-		"/Users/extiser/git/eva/markup/static/scss/fonts.scss",
 		"/Users/extiser/git/ozone/markup/static/scss/common.scss",
 		"/Users/extiser/git/ozone/markup/static/scss/mixins.scss",
 		"/Users/extiser/git/izeta-site/markup/static/scss/fonts.scss",
 		"/Users/extiser/git/izeta-site/markup/static/scss/mixins.scss",
 		"/Users/extiser/git/eva/markup/static/scss/etc/icons.scss",
-		"/Users/extiser/git/eva/tars-config.js",
 		"/Users/extiser/git/eva/node_modules/swiper/dist/css/swiper.css",
 		"/Users/extiser/git/eva/markup/components/default_component_scheme.json",
 		"/Users/extiser/git/izeta-site/markup/pages/index.jade",
@@ -711,43 +726,11 @@
 		"/Users/extiser/MAMP/wiseadvice.ru/local/.development/src/stylus/partials/uslugi-1s/c-compare-recomend.styl",
 		"/Users/extiser/MAMP/wiseadvice.ru/local/markup/programmy-1s/sravnenie-versii/1s-8-unf-i-1s-8-ut.php",
 		"/Users/extiser/MAMP/wiseadvice.ru/local/.development/src/stylus/partials/konsultacii/c-prices.styl",
-		"/Users/extiser/MAMP/wiseadvice.ru/local/.development/src/stylus/partials/sprite.styl",
-		"/Users/extiser/MAMP/wiseadvice.ru/local/.development/src/stylus/partials/uslugi-1s/avtomatizaciya-na-baze-1s/reshaemye-funkcionalnye-zadachi/bdds/c-accordion.styl",
-		"/Users/extiser/git/k-landing/markup/components/section-elite/section-elite.jade",
-		"/Users/extiser/git/k-landing/markup/components/section-top/section-top.scss",
-		"/Users/extiser/git/k-landing/markup/components/callback-form/callback-form.jade",
-		"/Users/extiser/git/k-landing/markup/components/callback-form/callback-form.js",
-		"/Users/extiser/git/k-landing/markup/components/modal/modal.scss",
-		"/Users/extiser/git/k-landing/markup/components/section-reviews/section-reviews.scss",
-		"/Users/extiser/git/k-landing/markup/components/top-menu/top-menu.jade",
-		"/Users/extiser/git/k-landing/markup/components/section-reviews/section-reviews.jade",
-		"/Users/extiser/git/k-landing/markup/static/scss/GUI.scss",
-		"/Users/extiser/git/k-landing/markup/components/section-teachers/section-teachers.jade",
-		"/Users/extiser/git/k-landing/markup/components/section-teachers/section-teachers.scss",
-		"/Users/extiser/git/k-landing/markup/components/section-education/section-education.jade",
-		"/Users/extiser/git/k-landing/markup/components/section-education/section-education.scss",
-		"/Users/extiser/git/k-landing/markup/components/section-contact/section-contact.jade",
-		"/Users/extiser/git/k-landing/markup/components/section-gallery/section-gallery.scss",
-		"/Users/extiser/git/k-landing/markup/components/section-gallery/section-gallery.jade",
-		"/Users/extiser/git/k-landing/markup/components/fullpage.js/fullpage.js",
-		"/Users/extiser/git/k-landing/markup/components/fullpage.js/fullpage.scss",
-		"/Users/extiser/git/k-landing/markup/components/footer/footer.scss",
-		"/Users/extiser/git/k-landing/markup/components/footer/footer.jade",
-		"/Users/extiser/git/k-landing/markup/components/section-top/section-top.jade",
-		"/Users/extiser/git/k-landing/markup/components/fp-nav/fp-nav.scss",
-		"/Users/extiser/git/k-landing/markup/components/modal/modal.jade",
-		"/Users/extiser/git/k-landing/markup/components/callback-form/callback-form.scss",
-		"/Users/extiser/git/k-landing/markup/components/timer/timer.jade",
-		"/Users/extiser/git/k-landing/markup/components/timer/timer.js",
-		"/Users/extiser/git/k-landing/markup/components/modal/modal.js",
-		"/Users/extiser/git/k-landing/markup/components/timer/timer.scss",
-		"/Users/extiser/git/k-landing/markup/pages/index.jade",
-		"/Users/extiser/git/k-landing/markup/components/fp-nav/fp-nav.jade",
-		"/Users/extiser/git/k-landing/markup/components/section-elite/section-elite.scss"
+		"/Users/extiser/MAMP/wiseadvice.ru/local/.development/src/stylus/partials/sprite.styl"
 	],
 	"find":
 	{
-		"height": 25.0
+		"height": 70.0
 	},
 	"find_in_files":
 	{
@@ -770,6 +753,7 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"sect",
 			"video",
 			"wiseadvice.ru:8888",
 			"/local/",
@@ -896,8 +880,7 @@
 			"h1",
 			"img",
 			"шьп",
-			"offcanvas",
-			"off"
+			"offcanvas"
 		],
 		"highlight": false,
 		"in_selection": false,
@@ -1043,67 +1026,8 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "markup/components/header/header.jade",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 179,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								95,
-								95
-							]
-						],
-						"settings":
-						{
-							"side_bar_folders_auto_load_folder": 1,
-							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "markup/pages/index.jade",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 38,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								38,
-								38
-							]
-						],
-						"settings":
-						{
-							"side_bar_folders_auto_load_folder": 1,
-							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -1150,7 +1074,7 @@
 	"project": "eva.sublime-project",
 	"replace":
 	{
-		"height": 46.0
+		"height": 114.0
 	},
 	"save_all_on_build": true,
 	"select_file":

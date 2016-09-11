@@ -4,4 +4,7 @@ mixin top-bar(data)
       +select-industry(data)
       .top-bar__how-it-works
         a(href="#" title="").button._small._blue Как это работает?
-      +login
+      .top-bar__column
+        +login
+        .menu__mobile.js-menuMobile-trigger
+          i.icon.icon-menu

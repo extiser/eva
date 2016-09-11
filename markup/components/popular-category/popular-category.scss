@@ -1,0 +1,17 @@
+.popular-category {
+  &__wrapper {
+    @extend .wrapper;
+  }
+  &__list {
+    display: flex;
+
+    margin-top: 40px;
+
+    align-items: stretch;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    @media screen and (max-width: rem-calc(760px)) {
+      display: block;
+    }
+  }
+}

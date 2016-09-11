@@ -1,4 +1,5 @@
 .slider {
+  // position: relative;
   z-index: 0;
 }
 
@@ -6,6 +7,9 @@
   position: relative;
 
   min-height: 790px;
+  @media screen and (max-width: rem-calc(760px)) {
+    min-height: 490px;
+  }
   &:after {
     z-index: 99;
     right: -305px;
@@ -14,6 +18,12 @@
 
     @include bg($lines-left-white);
     @include vertical-center;
+    @media screen and (max-width: rem-calc(960px)) {
+      right: -460px;
+    }
+    @media screen and (max-width: rem-calc(760px)) {
+      display: none;
+    }
   }
   &._pharmacology {
     background: linear-gradient(to bottom, adjust-hue(saturate(darken($dark-blue, 4%), 2%), 2), adjust-hue(desaturate(lighten($dark-blue, 13%), 31%), -6));
@@ -53,6 +63,12 @@
     margin: 0 auto 44px;
 
     content: "";
+    @media screen and (max-width: rem-calc(760px)) {
+      margin-top: -105px;
+      margin-bottom: -20px;
+
+      transform: scale(.77);
+    }
   }
   &__choose-theme {
     margin-bottom: 10px;
@@ -65,6 +81,9 @@
 
     font-family: $HelveticaNeueCyr-Roman;
     font-size: rem-calc(12);
+    @media screen and (max-width: rem-calc(760px)) {
+      font-size: rem-calc(10);
+    }
   }
   &__title {
     margin-bottom: 23px;
@@ -79,6 +98,9 @@
 
   align-items: center;
   justify-content: center;
+  @media screen and (max-width: rem-calc(760px)) {
+    bottom: 27px !important;
+  }
 }
 
 .swiper-pagination-bullet {
